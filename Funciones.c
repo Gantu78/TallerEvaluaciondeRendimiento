@@ -1,7 +1,7 @@
 /***************************************************************
 #         		Pontificia Universidad Javeriana
 #     Autor: J. Corredor
-#     Comentarios y modificaciones: Jorge Enrique Olaya Liévano
+#     Comentarios y modificaciones: Samuel Jerónimo Gantiva Garzón
 #     Fecha: Mayo 2025
 #     Materia: Sistemas Operativos
 #     Taller de Evaluación de Rendimiento
